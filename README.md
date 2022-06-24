@@ -1,16 +1,18 @@
-# great_places
+# Great Places
 
-A new Flutter project.
+This app was made through the completion of the course taught by Maximilian Schwarzmüller on Udemy.
 
-## Getting Started
+## About the project
 
-This project is a starting point for a Flutter application.
+This app was an exercise in using native device features such as the camera on mobile applications exposed through the Flutter SDK. It also provided some practice with SQL and using the Google Maps API.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Dart language
+* Flutter SDK (Android)
+* SQLite for storage of locations
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Learning Objectives Achieved
+
+* Using native device features (Camera)
+* Using the Google Maps API
